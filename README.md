@@ -38,4 +38,4 @@ Luego ejecuta:
 ## 🧑‍💻 Autor
 
 Alejandro Gallego López  
-Contacto: alejandro.gallego@goumh.umh.es
+Contacto: gallegolopez1990@gmail.com
